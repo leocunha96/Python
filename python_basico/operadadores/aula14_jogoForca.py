@@ -1,4 +1,6 @@
 #exercicio jogo da forca
+#TO DO implementar restrição de mais de um digito digitado ao mesmo tempo
+#TO DO refatorar, mantendo todas as funcionalidades e regras atuais
 
 
 print ('Bem vindo ao jogo da Forca!')
