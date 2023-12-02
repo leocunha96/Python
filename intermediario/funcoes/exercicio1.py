@@ -29,7 +29,7 @@ def parImpar (numero) :
         return 'Impar'
 
 
-numero = produto (1,2,3,4,5)
+numero = produto (1,2,3,4,8)
 print (numero)
 
 
